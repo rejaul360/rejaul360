@@ -1,4 +1,4 @@
-<img src="https://cdn-febih.nitrocdn.com/VoImAqrSqHLCcTavmqKZWsNVhZClOEHy/assets/images/optimized/rev-83fb81e/wp-content/uploads/f675e7de7c76c43a38a876f97e8b7e85.technology.jpg" alt="logo" style="max-width: 100%;">
+<img src="https://media.istockphoto.com/id/871030872/photo/programming-code-abstract-technology-background-of-software-developer.jpg?s=612x612&w=0&k=20&c=lkfUNy8Sf3TpFBeIfpBAy6FB5XQwbwjdzypK_1uOQd8=" alt="logo" style="max-width: 100%;">
 <h1 align="center">Hi 👋, I'm Rejaul Islam Raju</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" src="https://camo.githubusercontent.com/138094ef7b0b6590588c59954beddf9157e9396d568d2d93674e9d1ceb0bb11e/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" alt="coding" data-canonical-src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
