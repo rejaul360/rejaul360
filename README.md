@@ -8,19 +8,21 @@
 
 Building modern, responsive & business-focused websites that help businesses grow.
 
-<a href="https://linkedin.com/in/rejaulislam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://fb.com/rejaraju2k19" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-&nbsp;
-<a href="mailto:rejaraju2k19@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=rejaul360&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<p align="left">
+  <a href="https://linkedin.com/in/rejaulislam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://fb.com/rejaraju2k19" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="mailto:rejaraju2k19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=rejaul360&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
@@ -28,12 +30,12 @@ Building modern, responsive & business-focused websites that help businesses gro
 
 I'm a **Web Designer & Developer** specializing in **Frontend Development and WordPress**. I create modern, responsive and user-focused websites that combine strong visual design with clean development and practical business goals.
 
-* 🎨 Designing modern, responsive & user-focused websites
-* 💻 Developing frontend interfaces with HTML, CSS & JavaScript
-* 🧩 Building professional WordPress websites with Elementor Pro
-* 🎯 Converting Figma/UI designs into pixel-perfect websites
-* ⚡ Optimizing websites for performance, responsiveness & usability
-* 🛠️ Troubleshooting, maintaining & improving existing websites
+- 🎨 Designing modern, responsive & user-focused websites
+- 💻 Developing frontend interfaces with HTML, CSS & JavaScript
+- 🧩 Building professional WordPress websites with Elementor Pro
+- 🎯 Converting Figma/UI designs into pixel-perfect websites
+- ⚡ Optimizing websites for performance, responsiveness & usability
+- 🛠️ Troubleshooting, maintaining & improving existing websites
 
 ---
 
@@ -41,29 +43,29 @@ I'm a **Web Designer & Developer** specializing in **Frontend Development and Wo
 
 ### 🎨 Web Design
 
-* Modern UI/UX Design
-* Responsive Web Design
-* Figma to Website
-* Pixel-Perfect Development
-* User-Focused Interfaces
+- Modern UI/UX Design
+- Responsive Web Design
+- Figma to Website
+- Pixel-Perfect Development
+- User-Focused Interfaces
 
 ### 💻 Frontend Development
 
-* HTML5
-* CSS3
-* JavaScript
-* React
-* Tailwind CSS
-* Responsive & Interactive Interfaces
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Tailwind CSS
+- Responsive & Interactive Interfaces
 
 ### 🧩 WordPress Development
 
-* WordPress Website Development
-* Elementor & Elementor Pro
-* Theme Customization
-* Dynamic Websites
-* Custom WordPress Solutions
-* Website Maintenance & Optimization
+- WordPress Website Development
+- Elementor & Elementor Pro
+- Theme Customization
+- Dynamic Websites
+- Custom WordPress Solutions
+- Website Maintenance & Optimization
 
 ---
 
@@ -117,43 +119,63 @@ A modern travel website designed to provide an engaging, responsive and user-fri
 
 ## 🌱 Currently Exploring
 
-* ⚛️ Modern React Development
-* ▲ Next.js
-* 🔗 Headless WordPress
-* ⚡ Modern JavaScript Ecosystem
-* 🏗️ Scalable Web Architecture
+- ⚛️ Modern React Development
+- ▲ Next.js
+- 🔗 Headless WordPress
+- ⚡ Modern JavaScript Ecosystem
+- 🏗️ Scalable Web Architecture
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rejaul360&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=121212" alt="GitHub Stats" />
-  &nbsp;
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rejaul360&theme=radical&hide_border=true&background=121212" alt="GitHub Streak" />
+  <a href="https://github.com/rejaul360">
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api?username=rejaul360&show_icons=true&theme=radical&hide_border=true&bg_color=121212"
+      alt="GitHub Stats"
+    />
+  </a>
+
+  <a href="https://github.com/rejaul360">
+    <img
+      width="48%"
+      src="https://streak-stats.demolab.com/?user=rejaul360&theme=radical&hide_border=true&background=121212"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rejaul360&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=121212" alt="Top Languages" />
+  <a href="https://github.com/rejaul360">
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejaul360&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=121212"
+      alt="Top Languages"
+    />
+  </a>
 </p>
 
 ---
 
 ## 📄 Connect With Me
 
-<a href="https://www.linkedin.com/in/rejaulislam/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://drive.google.com/file/d/1_gc_qkuXbovr4Pe3sfzFJ2vdI9VOTFFg/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Professional_CV-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Professional CV" />
-</a>
-&nbsp;
-<a href="mailto:rejaraju2k19@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rejaulislam/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1_gc_qkuXbovr4Pe3sfzFJ2vdI9VOTFFg/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Professional_CV-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Professional CV" />
+  </a>
+  &nbsp;
+  <a href="mailto:rejaraju2k19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-**Email:** [rejaraju2k19@gmail.com](mailto:rejaraju2k19@gmail.com)
+**Email:** rejaraju2k19@gmail.com
 
 ---
 
