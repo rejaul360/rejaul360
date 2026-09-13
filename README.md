@@ -2,7 +2,7 @@
 <img width="1774" height="887" alt="Image" src="https://github.com/user-attachments/assets/860ac847-9ea7-41d5-b9e7-56385cbd5402" />
 </p>
 
-# Hi there, I'm Rejaul Islam Raju 👋
+# Hi there, I'm Rejaul Islam👋
 
 ### Web Designer & Developer | Frontend & WordPress Specialist
 
