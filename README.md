@@ -132,12 +132,12 @@ A modern travel website designed to provide an engaging, responsive and user-fri
 <p align="left">
   <img
     width="48%"
-    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=rejaul360&show_icons=true"
+    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=rejaul360&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
     alt="GitHub Stats"
   />
   <img
     width="48%"
-    src="https://streak-stats.demolab.com/?user=rejaul360&theme=radical&hide_border=true&background=121212"
+    src="https://streak-stats.demolab.com/?user=rejaul360&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
     alt="GitHub Streak"
   />
 </p>
@@ -145,7 +145,7 @@ A modern travel website designed to provide an engaging, responsive and user-fri
 <p align="left">
   <img
     width="48%"
-    src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=rejaul360"
+    src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=rejaul360&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
     alt="Top Languages"
   />
 </p>
