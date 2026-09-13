@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rejaul360/rejaul360/blob/main/1.gif" alt="logo" width="100%" style="max-width: 100%;">
+<img width="1774" height="887" alt="Image" src="https://github.com/user-attachments/assets/2c892a87-6e12-4404-8f74-fd2d96bc9d73" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rejaul Islam Raju</h1>
