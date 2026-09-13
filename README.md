@@ -130,31 +130,24 @@ A modern travel website designed to provide an engaging, responsive and user-fri
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <a href="https://github.com/rejaul360">
-    <img
-      width="48%"
-      src="https://github-readme-stats.vercel.app/api?username=rejaul360&show_icons=true&theme=radical&hide_border=true&bg_color=121212"
-      alt="GitHub Stats"
-    />
-  </a>
-
-  <a href="https://github.com/rejaul360">
-    <img
-      width="48%"
-      src="https://streak-stats.demolab.com/?user=rejaul360&theme=radical&hide_border=true&background=121212"
-      alt="GitHub Streak"
-    />
-  </a>
+  <img
+    width="48%"
+    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=rejaul360&show_icons=true"
+    alt="GitHub Stats"
+  />
+  <img
+    width="48%"
+    src="https://streak-stats.demolab.com/?user=rejaul360&theme=radical&hide_border=true&background=121212"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="left">
-  <a href="https://github.com/rejaul360">
-    <img
-      width="48%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejaul360&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=121212"
-      alt="Top Languages"
-    />
-  </a>
+  <img
+    width="48%"
+    src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=rejaul360"
+    alt="Top Languages"
+  />
 </p>
 
 ---
