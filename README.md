@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Rejaul Islam Raju 👋</h1>
-<h3 align="center">Crafting Scalable Web Applications & Immersive Digital Experiences</h3>
+<h3 align="center">Expert Web Designer & Developer | Building Professional, Scalable Websites That Help Businesses Grow</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rejaul360&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
