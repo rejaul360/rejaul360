@@ -1,5 +1,5 @@
 <p align="left">
-<img width="1774" height="887" alt="Image" src="https://github.com/user-attachments/assets/860ac847-9ea7-41d5-b9e7-56385cbd5402" />
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/a2cf3a79-5576-4d3b-b848-cd5c773ee2bf" />
 </p>
 
 # Hi there, I'm Rejaul Islam👋
